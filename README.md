@@ -11,7 +11,7 @@ Real-time chat interface designed with socket.io for company websites to provide
 * real-time messages with socket.io
 
 ## Watch the demo
-<a href="https://youtu.be/2O54oDVOnuE" target="_blank">
+<a href="https://youtu.be/2O54oDVOnuE">
 </a>
 
 
