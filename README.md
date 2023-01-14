@@ -11,12 +11,14 @@ Real-time chat interface designed with socket.io for company websites to provide
 * real-time messages with socket.io
 
 ## Watch the demo
+<a href="https://youtu.be/2O54oDVOnuE" target="_blank">
+</a>
 
 
 ## How to run this project on your local device
 1. clone the git repository to VS Code
 2. run in client terminal `npm run start`
-3. run in server terminal `npm run start`
+3. run in server terminal `npm start`
 4. navigate to localhost 4000
 
 ## Find a bug? 
