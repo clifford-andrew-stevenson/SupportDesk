@@ -12,7 +12,7 @@ Real-time chat interface designed with socket.io for company websites to provide
 
 ## Watch the demo
 <a href="https://youtu.be/2O54oDVOnuE" target="_blank">
-  <img src="[https://studio.youtube.com/video/2O54oDVOnuE/edit](https://i.ytimg.com/an_webp/2O54oDVOnuE/mqdefault_6s.webp?du=3000&sqp=CLf2i54G&rs=AOn4CLA4TcOu4RBFRwYAoCnepbmeIj_a8w)" alt="watch video" width=100 height=100 border=10 />
+  <img src="Screenshot_20230114_113621.png" alt="watch video" width=100 height=100 border=10 />
 </a>
 
 
