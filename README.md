@@ -49,7 +49,7 @@ Single contribution project
 ![app-demo](./img/app-demo.gif)
 
 <a href="https://www.youtube.com/watch?v=j_0gAi-mRqQ" target="_blank">
-  <img src="React_App_-_Google_Chrome_2023-01-14_11-21-34_AdobeExpress.gif" alt="watch video" width=250 height=170 border=10 />
+  <img src="React_App_-_Google_Chrome_2023-01-14_11-21-34_AdobeExpress.gif" alt="watch video" width=350 height=230 border=10 />
 </a>
 
 ----
